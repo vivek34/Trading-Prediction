@@ -14,6 +14,7 @@ Trading above 20MA and 10 EMA
 Can take tradin until it comes below 20MA or 10 EMA
 No Confirmation from BB
 
+
 Adani Ports:
 Current Value : 413
 Formation of Doji -> Downtrend
@@ -33,4 +34,41 @@ Next move for 2-3 sessions(D) uptrend.
 Take trade after 10 am
 
 
+Kotak Mahindra Bank : 
+Current Value : 1481
+Gap formed earlier : Can reach to 1459
+Signals downtrend.
+Current value of RSI-50
+Threshold level -> 44 ( signals downtrend)
 
+
+HCL Technologies :
+Current value : 1049
+Touches BB(L) 
+PAst history suggests. it will stay there for the next 2 sessions.
+RSI hit the oversold level.
+MACD -> Downtrend.
+
+TCS : 
+Current Value : 2239
+Red candlestick touched the BB(M)
+Confirms downtrend
+Formation of DojiStar.
+(5-8-13) EMA -> Downtrend
+ADX - > Downtrend
+
+
+Britannia Industries : (2nd July)
+Current Value : 2737
+Bounced from the S&R - 2721
+RSI confirms uptrend
+Hold some part of stock for 1 week.(8 shares)
+In next 2 days it will show high up movement.
+
+Coal India : (2nd July)
+Current Value : 249
+Touched the BB(L)
+2 consecutive red candlesticks
+Can wait for 1 day.
+Doesnt follow 20 level - S-RSI
+Touched the S&R level of 250
