@@ -110,7 +110,17 @@ Presence of stall volume( size of green volume bar < size of green candlesticks)
 MACD -> Uptrend
 Next S&R - 82
 
+Apollo Tyres
+Current value : 200
+Touching the S&R level : 200
+Bulls in control(More number of green candles with a big wick and high delivery percentage)
+Latest 7 sessions :Bears in control(red candles closing in lows)
+RSI trading above the minimum level.
+According to historical data , when traded above BB(M). after formation of some red candles it approaches to BB(M)
 
+
+Mahindra & Mahindra
+Current Value : 
 Finally<---------------------------->
 
 Trade for 2nd July :
