@@ -1,0 +1,84 @@
+Wipro Analysis
+Current S&R levels : 254,249
+IT there is a big green candle formed the next day,until wait to reach the provide S&R levels.
+RSI is below oversold range.
+A large volume bar greater than average length confirms downtrend.
+Touches BB(L)
+ADX-34 . downtrend has strength.
+MACD -> (-)
+A heavy green candlestick on the closing day.. predicts some uptrend on opening of the next day
+Touches 20-level of Stoch RSI confirms buying signal.
+
+
+HDFC BANK 
+Current Value : 2393
+S&R value : 2416 -> No Confirmations
+BB --> No confirmations
+MACD --> Downtrend
+ADX--> Very weak strength of downtrend
+
+15 minute chart:
+Formation of green candlestick 
+Just to cross the 20-level Stoch RSI. wait(1 session)
+10 EMA < 50 DMA ( Hint of a long uptrend.. needs some confirmation)
+
+
+TITAN
+Current value : 1101
+RSI < 20
+S&R - 1089
+Wait till it reaches 20 level( wait for some sessions)
+
+
+Adani Ports:
+Current Value: 415
+Currently in uptrend
+
+Reliance Industries:
+Current value : 1280
+Facing resistance at 1280 , No big red candles observed.
+If it breaks this level,positively it will reach to 1320 level and even next bigger levels.
+Presence of some stall volumes hints downtrend in coming sessions
+Two red candlesticks touches the BB(M) also hints downtrend.
+MACD positive
+ADX confirms the weaker strength of downtrend.
+Formation of green candlestick at the closing day.
+Wait till the opening of the market.
+
+Kotak Mahindra Bank:
+Current Value : 1483
+Very low volatile stock.
+
+
+RBL BANK LTD :
+Current value : 640
+Currently in uptrend.
+Presence of 2 consecutive volume green bars.
+S&R level - 658,624
+Two candlesticks touched the BB(M) -> confirms uptrend
+MACD positive.
+Strength of uptrend is weak as signalled by ADX
+
+ORCL :
+Current Value : 3292
+Reached the upper level of BB(H)
+It will come down.
+
+
+TCS :
+RSI less than 22
+S&R level = 2079,
+Just entered the BB
+MACD = (-)
+
+
+BRITANNIA INDUSTRIES :
+Current value : 2780
+Currently at S&R value : 2780 
+Next Support level : 2726,2860
+RSI in middle
+Near the BB(M)
+MACD = (+)
+Wait for the confirmation.
+EMA (5-8-13) = (+)
+ 
