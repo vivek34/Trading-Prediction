@@ -61,4 +61,30 @@ print(link.parent.name)
 for parent in link.parents:
 	print(parent.name)
 
-aa
+
+
+# SideWays Movements
+
+
+body = soup.b
+p = soup.body.p
+
+
+# next_siblings
+
+
+print(body.contents)
+print(p.next_siblings.next_siblings)
+
+
+# previous_siblings
+
+body = soup.body
+print(body.previous_sibling.previous_sibling)
+
+
+for siblings in p.next_sibling:
+	print(sibling.name if sibling is not '\n' else '')
+
+for sibling in p.previous_sibling:
+	print(sibling.name if sibling is not '\n' else '')
