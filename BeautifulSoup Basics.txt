@@ -1,0 +1,12 @@
+from bs4 import BeautifulSoup
+def read_file():
+    file = open('https://www.nseindia.com/live_market/dynaContent/live_watch/option_chain/optionKeys.jsp?symbolCode=-10003&symbol=NIFTY&symbol=NIFTY&instrument=OPTIDX&date=-&segmentLink=17&segmentLink=17')
+    data = file.read()
+    file.close()
+    return data
+
+html_file = read_file()
+print(html_file)
+
+soup = BeautifulSoup(html_file,html.parser)
+print(soup.prettify())
