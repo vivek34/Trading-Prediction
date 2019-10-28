@@ -1,0 +1,45 @@
+import requests
+from fake_useragent import UserAgent
+ua = UserAgent()
+header = {'user-agent':ua.chrome}
+page = requests.get('https://www.google.com',headers=header)
+soup = BeautifulSoup(page.content,'lxml')
+
+meta = soup.meta
+print(meta)
+
+div = soup.div
+print(div)
+
+body = soup.body
+
+print(body['class'])
+
+#Navigable strings : They are passed as objects
+title = soup.title
+print(title.string)
+
+title.string.replace_with('')
+
+p = soup.p
+
+head = soup.head
+
+print(head.contents)
+
+for child in head.contents:
+	print(child if child is not None else '')
+
+print(type(body.contents))     // returns list
+print(type(body.children))    // returns iterator
+
+for child in body.children:
+	print(child if child is not None else '')
+
+
+.descendants  -- returns the list of all the childrens of the said tag
+
+
+for index,children in enumerate(soup.head.descendants):
+	print(index)
+	print(children)
