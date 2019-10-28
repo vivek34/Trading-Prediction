@@ -43,3 +43,20 @@ for child in body.children:
 for index,children in enumerate(soup.head.descendants):
 	print(index)
 	print(children)
+
+
+
+# Going up
+
+
+title = soup.title
+parent = title.parent
+print(parent.name)                           # .name is used to print the tag name
+
+
+link = soup.a
+print(link.parents)
+print(link.parent.name)
+
+for parent in link.parents:
+	print(parent.name)
