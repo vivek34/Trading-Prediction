@@ -1,0 +1,48 @@
+import re
+
+regex = re.compile('a')   // Searching the tags
+print(regex.match('a')
+
+('\d') = Any decimal digit
+('\D') = Any whitespace
+('\s') = Any non white space
+('\S') = Any alphanumeric
+('\w') = Any non-alphanumeric
+
+
+
+# Repeating Things
+
+
+regex = re.compile('a*')    // low level = 0, high level = infinity
+print(regex.match('aaar')
+
+
+regex = re.compile('[a-c]*')
+print(regex.match('caaavc')
+
+'+' character  == This specifies that the previous character can be matched one or more times
+
+regex = re.compile('[a-c]+')
+
+
+'?' and{m,n} 
+
+regex = re.compile('a'?'b')                 ?  says the previous character can either come once or not at all
+
+regex = re.compile('a{2,4}')		{m,n} means that there must be atleast 'm' repeatitions and at most 'n'
+
+
+
+####### METACHARACTERS
+
+regex = re.compile('^abc')
+'^' says that the string should start with abc like in the mentioned example
+
+regex = re.compile('a|b')
+'|' is the or operator
+
+regex = re.compile('abc$')
+'$' matches the end of the line
+
+
