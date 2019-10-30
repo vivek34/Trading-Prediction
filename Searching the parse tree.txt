@@ -1,0 +1,49 @@
+# find_all() 
+#Signature : find_all(name,attr,recursive,string,limit,**kwargs)
+
+
+#tag name starts with 'b'
+regex = re.compile('b')
+for tag in soup.find_all(regex):
+	print(tag.name)
+
+
+#tag name that contains 'b'
+regex = re.compile('b')
+for tag in soup.find_all('b'):
+	print(tag.name)
+
+# all a and b tags
+
+for tag in soup.find_all(['a','b']):
+	print(tag.name)
+
+
+#function
+
+def has_class(tag):
+	return tag.has_attr('class')
+
+for tag in soup.find_all(has_class):
+	print(tag)
+
+
+a_tags = soup.find_all('a')
+attr = {'class':'a','id','1'}
+first_A = soup.find_all(class='a',attr=attr)
+print(first_A)
+
+
+a_tag = soup.find_all('a',limit=3)
+print(a_tag)
+
+
+regex = re.compile('story')
+tag = soup.find_all(string = regex)
+
+tag = soup.find_all(class = 'sister',id=;line1)
+for tags in tag:
+	print(tag.name)
+	print(len(tag))
+
+title = soup.find_all('title',recursive= False)
